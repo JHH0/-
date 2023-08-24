@@ -1,0 +1,15 @@
+# NAME: HBOUSA
+# DOMAIN-SUFFIX: 10
+# PROCESS-NAME: 1
+# TOTAL: 11
+DOMAIN-SUFFIX,telegraph.prd.api.discomax.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,api.apptentive.com
+DOMAIN-SUFFIX,cdn.branch.io
+DOMAIN-SUFFIX,kpck4q-launches.appsflyersdk.com
+DOMAIN-SUFFIX,sdk.iad-01.braze.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,api2.branch.io
+DOMAIN-SUFFIX,default.prd.api.discomax.com
+DOMAIN-SUFFIX,default.prd.api.discomax.com
+PROCESS-NAME,com.hbo.hbonow.max.discomax
